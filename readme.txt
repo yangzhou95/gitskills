@@ -1,3 +1,3 @@
 branch management test
-git is a free software
+git is a free software.
 
